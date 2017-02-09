@@ -1,0 +1,1 @@
+KERNEL=="sd*1", ATTRS{idProduct}=="1643", ATTRS{idVendor}=="0951", ATTRS{manufacturer}=="Kingston", ATTRS{serial}=="001CC0EC34BBFB5155E21DF0", RUN+="/home/jaro/bin/pendrive_popup.sh"
